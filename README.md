@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://github.com/shekhardase/shekhardase/blob/main/vlcsnap-2024-06-02-11h10m08s877.png" alt="Your Gif" style="width:100%; height:auto;"/>
+<img src="https://github.com/shekhardase/shekhardase/blob/main/vlcsnap-2024-06-02-11h10m08s877.png" alt="Your Gif" style="width:50%; height:auto;"/>
 
 I am passionate about improving my logic and coding skills. I spend my time resolving questions on various coding platforms and continually strive to enhance my knowledge and expertise.<br><br>🌍 I'm based in [Pune]<br>🌱 I’m currently learning advanced algorithms and data structures<br>💬 Ask me about competitive programming, algorithms, and problem-solving<br>📫 How to reach me: [shekhardase@gmail.com]<br>⚡ I enjoy playing games and building games in my free time<br><br>[leetcode](https://leetcode.com/u/Shekhar_2004/)<br>[LinkedIn](https://www.linkedin.com/in/shekhar2004/)<br><br><br>
 
