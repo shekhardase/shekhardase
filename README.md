@@ -1,6 +1,6 @@
 
 
-<h4 align="left">👋 Hello there, my name is Shekhar! I’m currently pursuing my B.Tech in Computer Engineering from G H Raisoni College of Engineering. 🏫<br><br>🚀 I am passionate about improving my logic and coding skills. I spend my time resolving questions on various coding platforms and continually strive to enhance my knowledge and expertise. 💡👨‍💻</h4>
+<h4 align="left"> <h3>👋 Hello there, my name is Shekhar! </h3> I’m currently pursuing my B.Tech in Computer Engineering from G H Raisoni College of Engineering. 🏫<br><br>🚀 I am passionate about improving my logic and coding skills. I spend my time resolving questions on various coding platforms and continually strive to enhance my knowledge and expertise. 💡👨‍💻</h4>
 <hr>
 
 ###
