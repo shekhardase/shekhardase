@@ -1,40 +1,25 @@
-<h3 align="left">👋 Hello there, my name is Shekhar!</h3>
-<h4 align="left">
-  I’m currently pursuing my B.Tech in Computer Engineering from G H Raisoni College of Engineering. 🏫<br><br>
-  🚀 I am passionate about improving my logic and coding skills. I spend my time resolving questions on various coding platforms and continually strive to enhance my knowledge and expertise. 💡👨‍💻
-</h4>
-<hr>
+## Hello, My name is Shekhar. 👋
 
-<h5>
-  🔧 <strong>Java Backend Enthusiast:</strong> I specialize in developing robust Java backend systems using Spring Boot. I focus on creating scalable, maintainable, and efficient applications. I believe in leveraging the power of modern frameworks, microservices architecture, and RESTful APIs to deliver high-performance backend solutions. Additionally, I emphasize the importance of CI/CD, containerization, and orchestration tools to streamline the development and deployment lifecycle.
-  <br><br>
+**Education:** Pursuing B.Tech in Computer Engineering from G H Raisoni College of Engineering. 🏫
 
-  🌐 <strong>Web Development:</strong> I have experience in web development using HTML, CSS, and JavaScript, as well as frameworks like Tailwind CSS. I build responsive, user-friendly web applications that adhere to best practices and modern design principles.
-  <br><br>
+**Passion:** Dedicated to improving logic and coding skills by solving coding problems and staying updated with industry trends. 💡👨‍💻
 
-  🛠️ <strong>Tech Stack:</strong> Proficient in languages like C, C++, C#, Python, JavaScript, and Java. Experienced with tools like IntelliJ, Git, Postman, VS Code, Blender, Unity (2D/3D), Godot game engine, Figma, Canva, and more.
-  <br><br>
+### Expertise:
 
-  🎮 <strong>Game Development Experience:</strong> I have a background in game development, working with engines like Unity and Godot to create both 2D and 3D games. This experience has honed my skills in problem-solving, optimization, and creative thinking.
-  <br><br>
+- **Java Backend Development:** Skilled in developing scalable Java backend systems using Spring Boot. 🔧
+- **Web Development:** Proficient in HTML, CSS, JavaScript, and frameworks like Tailwind CSS for building responsive web applications. 🌐
+- **Tech Stack:** Experienced in C, C++, C#, Python, and Java. Proficient with development tools like IntelliJ, Git, Postman, VS Code, and more. 🛠️
+- **Game Development Experience:** Background in creating 2D and 3D games using Unity and Godot engines. 🎮
 
-  📈 <strong>Continuous Learner:</strong> Always exploring new technologies and best practices to enhance my skills and deliver cutting-edge solutions.
-  <br><br>
+**Achievements:**
+- Led team to victory in Global Game Jam. 🏆
+- Secured 3rd place in Ideathon for AI-integrated health data integration concept. 🥉
+- Attained the 10th position in Code Vista 4.0 competition. 🏅
 
-  🏆 <strong>Achievements:</strong>
-  <ul>
-    <li>Led team to victory in Global Game Jam, outperforming 20+ senior developers. Demonstrated strong leadership, teamwork, and problem-solving in a dynamic, creative environment.</li>
-    <li>Created AI-integrated health data integration concept, resulting in a chatbot prototype. Secured 3rd place in Ideathon for its potential.</li>
-    <li>Attained the 10th position in Code Vista 4.0, a prestigious coding competition organized by Unstop.</li>
-  </ul>
-  <br>
+**Extracurricular Activities:**
+- Design Lead at Programming Ethics and Ethical Hacking Club, focusing on fostering ethical practices in technology. 🛡️
+- Active contributor on GitHub, showcasing ongoing learning and collaborative development efforts. 🎓
 
-  🎓 <strong>Extracurricular Activities:</strong>
-  <ul>
-    <li>Design Lead, Programming Ethics and Ethical Hacking Club: Demonstrated creative design skills with Figma, Canva, and a bit of 3D modeling, along with communication and teamwork skills while working towards the club’s mission of fostering ethical practices and responsible conduct in the field of technology.</li>
-    <li>Coding Practices and GitHub Contributions: Actively engage in coding practices on multiple platforms to enhance programming proficiency. Maintain a track record of projects and contributions on GitHub, showcasing ongoing learning and collaborative development efforts.</li>
-  </ul>
-</h5>
 
 ###
 
