@@ -1,7 +1,23 @@
 
-
-<h4 align="left"> <h3>👋 Hello there, my name is Shekhar! </h3> I’m currently pursuing my B.Tech in Computer Engineering from G H Raisoni College of Engineering. 🏫<br><br>🚀 I am passionate about improving my logic and coding skills. I spend my time resolving questions on various coding platforms and continually strive to enhance my knowledge and expertise. 💡👨‍💻</h4>
+<h3 align="left">👋 Hello there, my name is Shekhar!</h3>
+<h4 align="left">
+  I’m currently pursuing my B.Tech in Computer Engineering from G H Raisoni College of Engineering. 🏫<br><br>
+  🚀 I am passionate about improving my logic and coding skills. I spend my time resolving questions on various coding platforms and continually strive to enhance my knowledge and expertise. 💡👨‍💻
+</h4>
 <hr>
+
+<h6>
+  🔧 <strong>Java Backend Enthusiast:</strong> I specialize in developing robust Java backend systems using Spring Boot. I focus on creating scalable, maintainable, and efficient applications. I believe in leveraging the power of modern frameworks, microservices architecture, and RESTful APIs to deliver high-performance backend solutions. Additionally, I emphasize the importance of CI/CD, containerization, and orchestration tools to streamline the development and deployment lifecycle.
+  <br><br>
+
+  🛠️ <strong>Tech Stack:</strong> Proficient in languages like C, C++, C#, Python, JavaScript, and Java. Experienced with tools like IntelliJ, Git, Postman, VS Code, Blender, Unity (2D/3D), Godot game engine, Figma, Canva, and more.
+  <br><br>
+
+  🎮 <strong>Game Development Experience:</strong> I have a background in game development, working with engines like Unity and Godot to create both 2D and 3D games. This experience has honed my skills in problem-solving, optimization, and creative thinking.
+  <br><br>
+
+  📈 <strong>Continuous Learner:</strong> Always exploring new technologies and best practices to enhance my skills and deliver cutting-edge solutions.
+</h6>
 
 ###
 
