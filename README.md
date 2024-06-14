@@ -10,45 +10,46 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+ <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=godot" height="50" alt="godot logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo" />
+<img width="15" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+
 </div>
 
 ###
