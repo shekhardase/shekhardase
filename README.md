@@ -93,17 +93,15 @@
 <hr>
 <b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: column;">
   <a href="http://www.github.com/shekhardase" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shekhardase&show_icons=true&hide=stars,prs,issues&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="shekhardase's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shekhardase&show_icons=true&hide=stars,prs,issues&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="Shekhar Dase's GitHub stats" />
   </a>
 
   <a href="http://www.github.com/shekhardase" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhardase&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhardase&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Shekhar Dase's GitHub streak stats" />
   </a>
 </div>
 
-
-  <img src="https://i.pinimg.com/564x/91/fa/b3/91fab398d485d36bfe63af54af223f05.jpg" height="350" />
 
 
