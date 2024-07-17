@@ -108,5 +108,5 @@
 </div>
 
 <div align="right">
-  <img src="https://i.pinimg.com/564x/91/fa/b3/91fab398d485d36bfe63af54af223f05.jpg" height="500" />
+  <img src="https://i.pinimg.com/564x/91/fa/b3/91fab398d485d36bfe63af54af223f05.jpg" height="100" />
 </div>
