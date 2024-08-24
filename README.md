@@ -70,6 +70,8 @@
     <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" />
     <img width="23" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
+       <img width="23" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
 </div>
 
 
