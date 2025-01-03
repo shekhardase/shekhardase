@@ -6,7 +6,7 @@
 
 ### Expertise:
 
-- **Java Backend Development(in progress):** Learning how to build scalable Java backend systems using Spring Boot. 🔧
+
 - **Web Development:** Proficient in HTML, CSS, JavaScript, and frameworks like Tailwind CSS for building responsive web applications. 🌐
 - **Tech Stack:** Experienced in C, C++, C#, Python, and Java. Proficient with development tools like IntelliJ, Git, Postman, VS Code, and more. 🛠️
 - **Game Development Experience:** Background in creating 2D and 3D games using Unity and Godot engine. 🎮
