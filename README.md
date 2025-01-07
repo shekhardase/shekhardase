@@ -100,16 +100,18 @@
 ###
 
 <hr>
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shekhardase&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shekhardase&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<div style="display: flex; flex-direction: column;">
-  <a href="http://www.github.com/shekhardase" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shekhardase&show_icons=true&hide=stars,prs,issues&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="Shekhar Dase's GitHub stats" />
-  </a>
+###
 
-  <a href="http://www.github.com/shekhardase" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhardase&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Shekhar Dase's GitHub streak stats" />
-  </a>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shekhardase/shekhardase/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
 
