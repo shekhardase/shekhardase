@@ -73,7 +73,7 @@
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
 <img width="23" />
-<img src="https://th.bing.com/th?id=OIP.99YCwxgloR7q_iL-2XW4lgHaGc&w=267&h=233&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="45" alt="gsap logo" />
+<img src="https://th.bing.com/th/id/OIP.QN8H9blXJRtRtqJlez-wqwAAAA?w=132&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="45" alt="gsap logo" />
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo" />
 
