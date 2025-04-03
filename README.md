@@ -8,7 +8,7 @@
 
 
 - **Web Development:** Proficient in HTML, CSS, JavaScript, and frameworks like Tailwind CSS for building responsive web applications. 🌐
-- **Tech Stack:** Experienced in C, C++, C#, Python, and Java. Proficient with development tools like IntelliJ, Git, Postman, VS Code, and more. 🛠️
+- **Tech Stack:** Experienced in C, C++, and Java. Proficient with development tools like IntelliJ, Git, Postman, VS Code, and more. 🛠️
 - **Game Development Experience:** Background in creating 2D and 3D games using Unity and Godot engine. 🎮
 
 **Achievements:**
@@ -33,18 +33,15 @@
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" />
 <img width="23" />
-<img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo" />
-<img width="23" />
+
 <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" />
 <img width="23" />
-<img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo" />
-<img width="23" />
-<img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
-<img width="23" />
+
+
 <img src="https://skillicons.dev/icons?i=godot" height="45" alt="godot logo" />
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=blender" height="45" alt="blender logo" />
@@ -59,20 +56,13 @@
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
 <img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo" />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo" />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
-<img width="23" />
+
+
+
 <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" />
 <img width="23" />
-<img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" />
-<img width="23" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
-<img width="23" />
-<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
-<img width="23" />
+
+
 <img src="https://th.bing.com/th/id/OIP.QN8H9blXJRtRtqJlez-wqwAAAA?w=132&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="45" alt="gsap logo" />
 <img width="23" />
 <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo" />
